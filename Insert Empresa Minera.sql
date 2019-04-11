@@ -252,44 +252,61 @@ Values(28,2,2,14,1950,'01/12/2015','31/12/2015');
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
 Values(1,2,1,2,'02/02/2016','2mg',68000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(2,2,1,3,'02/02/2016','3mg',102000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(3,2,1,5,'12/01/2016','4mg',200000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(4,2,1,6,'08/09/2015','2mg',160000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(5,2,1,1,'05/08/2015','3mg',270000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(6,2,1,3,'16/12/2015','2mg',68000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(7,2,1,4,'12/01/2016','4mg',280000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(8,2,1,10,'05/05/2016','3mg',240000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(9,2,1,11,'07/10/2015','5mg',450000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(10,2,1,12,'12/01/2016','4mg',320000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(11,2,1,2,'13/10/2015','3mg',195000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(12,2,1,6,'23/02/2016','3mg',240000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(13,2,1,8,'15/02/2016','5mg',335000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(14,2,1,9,'18/11/2015','2mg',156000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(15,31,1,7,'13/08/2015','5mg',3000000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(16,31,1,5,'23/11/2015','1mg',50000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(17,31,1,5,'18/08/2015','2mg',100000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(18,31,1,6,'12/08/2015','7mg',600000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
+Values(19,31,1,6,'26/03/2015','3mg',450000);
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
-Values();
-
+Values(20,31,1,6,'19/12/2015','5mg',340000);
+Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
+Values(21,31,1,7,'17/12/2014','4mg',650000);
+Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
+Values(22,31,1,3,'22/09/2015','3mg',300000);
+Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
+Values(23,31,1,7,'25/03/2015','2mg',100000);
+Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
+Values(24,31,1,2,'12/01/2016','10mg',1000000);
+Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
+Values(25,31,1,7,'20/10/2015','5mg',150000);
+Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
+Values(26,31,1,11,'27/02/2015','3mg',340000);
+Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
+Values(27,31,1,13,'16/09/2015','4mg',230000);
+Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
+Values(28,31,1,12,'08/05/2015','3mg',230000);
+Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
+Values(29,31,1,14,'03/05/2016','1mg',80000);
 
 --Tabla: Mina 
 Insert Into Mina (IdMina, IdCargoE, Nombre, Ubicacion)
