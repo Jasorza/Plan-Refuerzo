@@ -18,11 +18,11 @@ select idcargoemppleado,f_nomina(valor) from nomina;
 
 --FUNCION 2--
 
-create or replace function f_incremento10 (avalor number)
+create or replace function f_incremento10 (NumeroSMLV number)
   return number
  is
  begin 
-   return avalor+(avalor*0.1);
+   return NumeroSMLV+(NumeroSMLV*0.1);
  end;
  
- select idfacturainsumos,idmaterial,idproveedor,cantidad,f_incremento10(costo) from facturainsumos;
+ select idCargo,Nombre,numerosmlv,f_incremento10(NumeroSMLV) from Cargo;
