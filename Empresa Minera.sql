@@ -139,4 +139,3 @@ Add Constraint Fk_Nomina_CargoEmplado Foreign Key (IdCargoE) References CargoEmp
 
 Alter Table Nomina 
 Add Constraint Fk_Nomina_Beneficio Foreign Key (IdBeneficio) References Beneficio (IdBeneficio);
-
