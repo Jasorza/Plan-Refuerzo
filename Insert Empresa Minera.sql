@@ -61,37 +61,37 @@ Insert Into Cargo (IdCargo,Nombre,NumeroSMLV)
 Values (15,'Ing. Metalurgico',3000000);
 
 --Tabla: Empleado
-Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
+Insert Into Empleado (IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(1,'James M.','Mendoza','7.161.419.256','708-843-5197');
-Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
+Insert Into Empleado (IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(2,'Albert C.','Watts','2.581.609.382','678-512-0843');
-Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
+Insert Into Empleado (IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(3,'Eva E.','Gibson','4.577.479.503','347-296-7316');
-Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
+Insert Into Empleado (IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(4,'Terrie R.','Jones','4.438.023.047','585-272-4024');
-Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
+Insert Into Empleado (IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(5,'Rita R.','Walker','1.300.445.393','407-585-8433');
-Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
+Insert Into Empleado (IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(6,'Willie V.','Hess','8.319.840.429','403-383-8594');
-Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
+Insert Into Empleado (IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(7,'Frances J.','Farrow','3.898.658.584','613-968-6998');
 Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(8,'Graciela R.','McGinnis','5.550.349.375','416-817-4092');
-Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
+Insert Into Empleado (IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(9,'Timothy C.','Baldwin','7.718.938.702','416-858-8397');
-Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
+Insert Into Empleado (IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(10,'Paulette J.','Calvert','8.874.548.902','784 951 027');
-Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
+Insert Into Empleado (IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(11,'Walter I.','Johnson','2.702.720.854','710 485 340');
-Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
+Insert Into Empleado (IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(12,'Carol H.','Moulton','2.892.169.528','675 970 565');
-Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
+Insert Into Empleado (IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(13,'Mabel P.','Smith','7.717.828.788','625 683 252');
-Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
+Insert Into Empleado (IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(14,'Michelle B.','Madden','5.588.255.178','653 867 550');
-Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
+Insert Into Empleado (IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(15,'Thomas M.','Benefiel','4.742.038.497','617 797 296');
-Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
+Insert Into Empleado (IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(16,'Shelly J.','Adelson','2.577.392.994','636 885 490');
 
 --Tabla: Roca

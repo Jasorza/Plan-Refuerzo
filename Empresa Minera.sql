@@ -91,8 +91,8 @@ Create Table Producido (
 	IdCargoEm		int		not null,
 	IdRoca			int		not null,
 	FechaRecibido	date	not null,
-	Peso			int		not null,
-	PrecioGr		text	not null,
+	Peso			text	not null,
+	PrecioGr		int		not null,
 	Constraint Pk_Producido	Primary Key	(IdProducido)
 )
 go
