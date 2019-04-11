@@ -1,9 +1,9 @@
-Select	Nombre, Apellido as 'Empleado'
+Select	Nombre, Apellido  
 From	Empleado
 Where	IdEmpleado = 6
 
 Union
 
-Select	FechaInicio, FechaFin
-From	CargoEmpleado
+Select	IdCargo 
+From	CargoEmpleado  
 Where	IdEmpleado = 6
