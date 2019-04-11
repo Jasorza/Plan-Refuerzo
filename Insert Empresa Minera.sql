@@ -95,36 +95,36 @@ Insert Into Empleado(IdEmpleado,Nombre,Apellido,Documento,telefono)
 Values(16,'Shelly J.','Adelson','2.577.392.994','636 885 490');
 
 --Tabla: Roca
-Insert Into Roca (IdRoca,Nombre)
-Values(1,'Oro');
-Insert Into Roca (IdRoca,Nombre)
-Values(2,'Rubi');
-Insert Into Roca (IdRoca,Nombre)
-Values(3,'Plata');
-Insert Into Roca (IdRoca,Nombre)
-Values(4,'Diamante');
-Insert Into Roca (IdRoca,Nombre)
-Values(5,'Esmeralda');
-Insert Into Roca (IdRoca,Nombre)
-Values(6,'Zafiro');
-Insert Into Roca (IdRoca,Nombre)
-Values(7,'Topacio');
-Insert Into Roca (IdRoca,Nombre)
-Values(8,'Amatista');
-Insert Into Roca (IdRoca,Nombre)
-Values(9,'Aguamarina');
-Insert Into Roca (IdRoca,Nombre)
-Values(10,'Alejandrita');
-Insert Into Roca (IdRoca,Nombre)
-Values(11,'Circon');
-Insert Into Roca (IdRoca,Nombre)
-Values(12,'Tarzanita');
-Insert Into Roca (IdRoca,Nombre)
-Values(13,'Perla');
-Insert Into Roca (IdRoca,Nombre)
-Values(14,'Turquesa');
-Insert Into Roca (IdRoca,Nombre)
-Values(15,'Coral');
+Insert Into Roca (IdRoca,Nombre,PrecioGr)
+Values(1,'Oro',90000);
+Insert Into Roca (IdRoca,Nombre,PrecioGr)
+Values(2,'Rubi',65000);
+Insert Into Roca (IdRoca,Nombre,PrecioGr)
+Values(3,'Plata',34000);
+Insert Into Roca (IdRoca,Nombre,PrecioGr)
+Values(4,'Diamante',70000);
+Insert Into Roca (IdRoca,Nombre,PrecioGr)
+Values(5,'Esmeralda',50000);
+Insert Into Roca (IdRoca,Nombre,PrecioGr)
+Values(6,'Zafiro',80000);
+Insert Into Roca (IdRoca,Nombre,PrecioGr)
+Values(7,'Topacio',60000);
+Insert Into Roca (IdRoca,Nombre,PrecioGr)
+Values(8,'Amatista',67000);
+Insert Into Roca (IdRoca,Nombre,PrecioGr)
+Values(9,'Aguamarina',78000);
+Insert Into Roca (IdRoca,Nombre,PrecioGr)
+Values(10,'Alejandrita',80000);
+Insert Into Roca (IdRoca,Nombre,PrecioGr)
+Values(11,'Circon',89000);
+Insert Into Roca (IdRoca,Nombre,PrecioGr)
+Values(12,'Tarzanita',78000);
+Insert Into Roca (IdRoca,Nombre,PrecioGr)
+Values(13,'Perla',80000);
+Insert Into Roca (IdRoca,Nombre,PrecioGr)
+Values(14,'Turquesa',76000);
+Insert Into Roca (IdRoca,Nombre,PrecioGr)
+Values(15,'Coral',70000);
 
 --Tabla: Mina 
 Insert Into Mina (IdMina, IdCargoE, Nombre, Ubicacion)

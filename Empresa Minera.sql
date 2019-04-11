@@ -132,7 +132,7 @@ Add Constraint Fk_Mina_CargoEmpleado Foreign Key (IdCargoE) References CargoEmpl
 
 --Llaves Foraneas Tabala Nomina
 Alter Table Nomina 
-Add Constraint Fk_Nomina_CargoEmpleado_Diretor Foreign Key (IdCargoEm) References CargoEmpleado (IdCargoEm);
+Add Constraint Fk_Nomina_CargoEmpleado_Diretor Foreign Key (IdCargoEm) References CargoEmpleado (IdCargoE);
 
 Alter table Nomina 
 Add Constraint Fk_Nomina_CargoEmplado Foreign Key (IdCargoE) References CargoEmpleado (IdCargoE);
