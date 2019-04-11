@@ -126,12 +126,6 @@ Values(14,'Turquesa',76000);
 Insert Into Roca (IdRoca,Nombre,PrecioGr)
 Values(15,'Coral',70000);
 
---Tabla: Mina 
-Insert Into Mina (IdMina, IdCargoE, Nombre, Ubicacion)
-Values (1,9,'El Mortiñal','Oicatà');
-Insert Into Mina (IdMina, IdCargoE, Nombre, Ubicacion)
-Values (2,31,'Cerro Viejo','Soraca');
-
 --Tabla: Cargo Empleado
 Insert Into CargoEmpleado (IdCargoE, IdEmpleado, IdCargo, FechaInicio)
 Values(1,1,4,'2012-12-13');
@@ -295,3 +289,10 @@ Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,P
 Values();
 Insert Into Producido(IdProducido,IdCargoEm,IdCargoE,IdRoca,FechaRecibido,Peso,PrecioGr)
 Values();
+
+
+--Tabla: Mina 
+Insert Into Mina (IdMina, IdCargoE, Nombre, Ubicacion)
+Values (1,9,'El Mortiñal','Oicatà');
+Insert Into Mina (IdMina, IdCargoE, Nombre, Ubicacion)
+Values (2,31,'Cerro Viejo','Soraca');

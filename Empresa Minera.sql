@@ -57,7 +57,7 @@ Create Table CargoEmpleado (
 	IdCargoE		int		not null,
 	IdEmpleado		int		not null,
 	IdCargo			int		not null,
-	IdCargoEm		int		not null,
+	IdCargoEm		int		null,
 	FechaInicio		date	not null,
 	FechaFin		date	null,
 	Constraint Pk_CargoEmpleado Primary Key (IdCargoE)	
